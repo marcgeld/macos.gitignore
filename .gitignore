@@ -26,5 +26,7 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-#
-.build
+# Swift build artifacts
+.swiftpm/
+.build/
+Packages/
